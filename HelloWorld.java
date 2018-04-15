@@ -4,5 +4,6 @@ public class HelloWorld {
      */
     public static void main(String []args) {
         System.out.println("Hello World"); // ´òÓ¡ Hello World
+        System.out,println("GitHubµÄ³õ´Î³¢ÊÔ");
     }
 }
